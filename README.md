@@ -48,7 +48,6 @@ copy .env.example .env
 ```bash
 python demo_mode.py
 ```
-**适合**：面试演示、快速测试、查看输出格式
 
 #### 方式 1：命令行运行（需要 API Key）
 ```bash
