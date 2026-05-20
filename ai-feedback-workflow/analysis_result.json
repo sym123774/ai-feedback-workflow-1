@@ -1,0 +1,56 @@
+{
+  "analysis_results": [
+    {
+      "original_feedback": "APP 打开太慢，希望优化启动速度",
+      "category": "BUG 投诉",
+      "priority": "高",
+      "sentiment": "负面",
+      "keywords": [
+        "慢",
+        "优化"
+      ],
+      "summary": "APP 打开太慢，希望优化启动速度",
+      "suggested_action": "人工复核/优化方案",
+      "id": 1
+    },
+    {
+      "original_feedback": "客服响应太慢，问题三天没解决",
+      "category": "BUG 投诉",
+      "priority": "高",
+      "sentiment": "负面",
+      "keywords": [
+        "慢"
+      ],
+      "summary": "客服响应太慢，问题三天没解决",
+      "suggested_action": "人工复核/优化方案",
+      "id": 2
+    },
+    {
+      "original_feedback": "希望能增加导出 Excel 的功能",
+      "category": "其他",
+      "priority": "中",
+      "sentiment": "中性",
+      "keywords": [],
+      "summary": "希望能增加导出 Excel 的功能",
+      "suggested_action": "人工复核/优化方案",
+      "id": 3
+    }
+  ],
+  "summary": {
+    "total": 3,
+    "by_category": {
+      "BUG 投诉": 2,
+      "其他": 1
+    },
+    "by_sentiment": {
+      "正面": 0,
+      "中性": 1,
+      "负面": 2
+    },
+    "high_priority_issues": [
+      "APP 打开太慢，希望优化启动速度",
+      "客服响应太慢，问题三天没解决"
+    ],
+    "positive_rate": 0.0
+  }
+}

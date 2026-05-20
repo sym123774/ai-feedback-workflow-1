@@ -1,0 +1,97 @@
+{
+  "timestamp": "2026-05-20T21:45:50.102472",
+  "mode": "demo",
+  "analysis_results": [
+    {
+      "category": "BUG 投诉",
+      "priority": "高",
+      "sentiment": "负面",
+      "keywords": [
+        "性能优化"
+      ],
+      "summary": "用户反馈BUG 投诉，情感负面",
+      "suggested_action": "技术团队优先排查",
+      "id": 1,
+      "original_feedback": "APP 打开太慢了，希望能优化一下启动速度"
+    },
+    {
+      "category": "功能建议",
+      "priority": "中",
+      "sentiment": "正面",
+      "keywords": [
+        "一般反馈"
+      ],
+      "summary": "用户反馈功能建议，情感正面",
+      "suggested_action": "产品评估需求，排期开发",
+      "id": 2,
+      "original_feedback": "新增的深色模式很好用！但是希望能自定义主题颜色"
+    },
+    {
+      "category": "BUG 投诉",
+      "priority": "高",
+      "sentiment": "负面",
+      "keywords": [
+        "性能优化",
+        "客户服务"
+      ],
+      "summary": "用户反馈BUG 投诉，情感负面",
+      "suggested_action": "技术团队优先排查",
+      "id": 3,
+      "original_feedback": "客服响应太慢，问题三天了还没解决"
+    },
+    {
+      "category": "BUG 投诉",
+      "priority": "高",
+      "sentiment": "中性",
+      "keywords": [
+        "功能需求"
+      ],
+      "summary": "用户反馈BUG 投诉，情感中性",
+      "suggested_action": "技术团队优先排查",
+      "id": 4,
+      "original_feedback": "这个功能完全没法用，一直报错 500"
+    },
+    {
+      "category": "表扬感谢",
+      "priority": "低",
+      "sentiment": "中性",
+      "keywords": [
+        "UI 设计"
+      ],
+      "summary": "用户反馈表扬感谢，情感中性",
+      "suggested_action": "同步团队，保持优点",
+      "id": 5,
+      "original_feedback": "界面设计很漂亮，用户体验不错"
+    },
+    {
+      "category": "功能建议",
+      "priority": "中",
+      "sentiment": "中性",
+      "keywords": [
+        "功能需求"
+      ],
+      "summary": "用户反馈功能建议，情感中性",
+      "suggested_action": "产品评估需求，排期开发",
+      "id": 6,
+      "original_feedback": "希望能增加导出 Excel 的功能，现在只能截图"
+    }
+  ],
+  "summary": {
+    "total": 6,
+    "by_category": {
+      "BUG 投诉": 3,
+      "功能建议": 2,
+      "表扬感谢": 1
+    },
+    "by_sentiment": {
+      "正面": 1,
+      "中性": 3,
+      "负面": 2
+    },
+    "high_priority": [
+      "用户反馈BUG 投诉，情感负面",
+      "用户反馈BUG 投诉，情感负面",
+      "用户反馈BUG 投诉，情感中性"
+    ]
+  }
+}
