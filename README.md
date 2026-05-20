@@ -1,4 +1,4 @@
-# AI 用户反馈智能分析工作流
+<img width="553" height="449" alt="image" src="https://github.com/user-attachments/assets/a7d40790-9c92-48c6-8044-0084e3899d30" /># AI 用户反馈智能分析工作流
 
 ## 📋 项目概述
 
@@ -148,3 +148,5 @@ python test_workflow.py
 **解决**：优化 Prompt，增加 few-shot 示例
 
 ---
+
+
